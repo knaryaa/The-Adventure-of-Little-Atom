@@ -3,6 +3,6 @@
 This game made for a Game Jam(Magara Jam #3) within 72 hours with 3 member team.
 
 # Members
-Yalcin Taf - Game Developer
+Yalcin Taf - Game Developer \n
 Onurcan Özcan - Game Designer
 Ömürcan Oğuz - Game Designer
